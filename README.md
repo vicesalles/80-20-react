@@ -15,4 +15,4 @@ Just read the Richard Koch's 80/20 principle book and got curious about the insi
 In the demo you can check some data about the Spanish Football League. (Actual Football, not that creepy rugby). Funny to say that the 80/20 principle turns falsy with this data set.
 
 
-['Demo'](https://vicesalles.github.io/80-20-react/)
+[Demo](https://vicesalles.github.io/80-20-react/)

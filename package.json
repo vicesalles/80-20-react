@@ -16,6 +16,7 @@
     "gh-pages": "^1.2.0",
     "react-scripts": "1.1.4"
   },
+  "homepage": "https://vicesalles.github.io/80-20-react/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -23,6 +24,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "homepage": "https://vicesalles.github.io/80-20-react/"
+  }
+  
 }
