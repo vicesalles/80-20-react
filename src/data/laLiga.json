@@ -1,0 +1,122 @@
+[
+  {
+    "equip": "FC Barcelona",
+    "punts": "93",
+    "gols": "99",
+    "golsC": "29"
+  },
+  {
+    "equip": "Atlético de Madrid",
+    "punts": "79",
+    "gols": "58",
+    "golsC": "22"
+  },
+  {
+    "equip": "Real Madrid",
+    "punts": "76",
+    "gols": "94",
+    "golsC": "44"
+  },
+  {
+    "equip": "Valencia CF",
+    "punts": "73",
+    "gols": "65",
+    "golsC": "38"
+  },
+  {
+    "equip": "Villarreal CF",
+    "punts": "61",
+    "gols": "57",
+    "golsC": "50"
+  },
+  {
+    "equip": "Real Betis",
+    "punts": "60",
+    "gols": "60",
+    "golsC": "61"
+  },
+  {
+    "equip": "Sevilla FC",
+    "punts": "58",
+    "gols": "49",
+    "golsC": "58"
+  },
+  {
+    "equip": "Getafe CF",
+    "punts": "55",
+    "gols": "42",
+    "golsC": "33"
+  },
+  {
+    "equip": "SD Eibar",
+    "punts": "51",
+    "gols": "44",
+    "golsC": "50"
+  },
+  {
+    "equip": "Girona FC",
+    "punts": "51",
+    "gols": "50",
+    "golsC": "59"
+  },
+  {
+    "equip": "RCD Espanyol",
+    "punts": "49",
+    "gols": "36",
+    "golsC": "42"
+  },
+  {
+    "equip": "Real Sociedad",
+    "punts": "49",
+    "gols": "66",
+    "golsC": "59"
+  },
+  {
+    "equip": "RC Celta",
+    "punts": "49",
+    "gols": "59",
+    "golsC": "60"
+  },
+  {
+    "equip": "D. Alavés",
+    "punts": "47",
+    "gols": "40",
+    "golsC": "50"
+  },
+  {
+    "equip": "Levante UD",
+    "punts": "46",
+    "gols": "44",
+    "golsC": "58"
+  },
+  {
+    "equip": "Athletic Club",
+    "punts": "43",
+    "gols": "41",
+    "golsC": "49"
+  },
+  {
+    "equip": "CD Leganés",
+    "punts": "43",
+    "gols": "34",
+    "golsC": "51"
+  },
+  {
+    "equip": "RC Deportivo",
+    "punts": "29",
+    "gols": "38",
+    "golsC": "76"
+  },
+  {
+    "equip": "UD Las Palmas",
+    "punts": "22",
+    "gols": "24",
+    "golsC": "74"
+  },
+  {
+    "equip": "Málaga CF",
+    "punts": "20",
+    "gols": "24",
+    "golsC": "61"
+  }
+]
